@@ -7,6 +7,8 @@ An open source lua deobfuscator for bytecode. Deobfuscates bytecode encryption i
 
 ### How to use it?
 
+- If you aren't decompiling fivem scripts just change `load` into `loadstring`
+
 - Put .exe file into folder with obfuscated .lua file
 - Run deobfuscator
 - Type the name of .lua file with the .lua extension and press ENTER
