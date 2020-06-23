@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\sianko\Lua_Byte_Deobfuscator\Lua_Byte_Deobfuscator\bin\Release\Lua_Byte_Deobfuscator.exe.config
+C:\Users\Daniel\Desktop\sianko\Lua_Byte_Deobfuscator\Lua_Byte_Deobfuscator\obj\Release\Lua_Byte_Deobfuscator.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\sianko\Lua_Byte_Deobfuscator\Lua_Byte_Deobfuscator\obj\Release\Lua_Byte_Deobfuscator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\sianko\Lua_Byte_Deobfuscator\Lua_Byte_Deobfuscator\obj\Release\Lua_Byte_Deobfuscator.exe
+C:\Users\Daniel\Desktop\sianko\Lua_Byte_Deobfuscator\Lua_Byte_Deobfuscator\obj\Release\Lua_Byte_Deobfuscator.pdb
