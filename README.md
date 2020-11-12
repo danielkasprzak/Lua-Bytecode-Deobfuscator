@@ -16,5 +16,4 @@ An open source lua deobfuscator for bytecode. Deobfuscates bytecode encryption i
 
 ### Credits
 
-- All credits to goldblack [https://github.com/goldblackk]
-- Special thanks to yunglean_ for his bytecode obfuscator code [https://github.com/yungleanio]
+- All credits to [Nyxon](https://github.com/goldblackk)
