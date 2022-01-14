@@ -21,3 +21,8 @@ An open source lua deobfuscator for bytecode. Deobfuscates bytecode encryption i
 ### Credits
 
 - All credits to [Nyxon](https://github.com/Nyxonn)
+
+
+<div align="center">
+[![paypal](https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=LHX286XBZ5BZS)
+</div>
