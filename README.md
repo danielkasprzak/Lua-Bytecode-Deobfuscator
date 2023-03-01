@@ -1,7 +1,4 @@
 # Lua-Bytecode-Deobfuscator
-[![developer](https://img.shields.io/badge/Developer-Nyxon-c92aa7.svg?style=flat)](https://github.com/Nyxonn)
-[![discord](https://img.shields.io/badge/Discord-Nyxon%234418-942ac9.svg?style=flat)](https://discordapp.com/users/690624129153630248)
-![developer](https://img.shields.io/badge/Version-1.0-blueviolet.svg?style=flat)
 
 Bytecode deobfuscator/decompiler for lua language
 
@@ -17,10 +14,6 @@ An open source lua deobfuscator for bytecode. Deobfuscates bytecode encryption i
 - Run deobfuscator
 - Type the name of .lua file with the .lua extension and press ENTER
 - Results will show up in the console
-
-### Credits
-
-- All credits to [Nyxon](https://github.com/Nyxonn)
 
 
 <div align="center">
